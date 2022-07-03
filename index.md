@@ -1,1 +1,1 @@
-"Hello World" 
+[Click here for NavLight Help docs](/docs/index.md)
