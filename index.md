@@ -1,1 +1,1 @@
-[Click here for NavLight Help docs](/docs/index.md)
+[Introduction](/docs/Introduction.md)
